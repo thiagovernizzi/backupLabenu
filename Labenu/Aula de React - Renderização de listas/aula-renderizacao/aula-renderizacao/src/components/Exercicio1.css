@@ -1,0 +1,12 @@
+.lista-pessoas li {
+    list-style-type: none;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.laranja {
+    color: orange;
+}

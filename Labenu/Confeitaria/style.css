@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: grid;
+    grid-template-columns: 2fr 8fr;
+    grid-template-rows: 10vh 80vh 10vh;
+}
+
+header {
+    background-color: mediumvioletred;
+}
+
+.navegacao li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navegacao a {
+    text-decoration: none;
+    color: rgb(64, 30, 30)
+}
+
+nav {
+    padding: 10px;
+    background-color: #f2d0f2;
+
+}
+
+nav img {
+    width: 15px;
+}
+
+main {
+    background-color: orange;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+header {
+    padding: 10px;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.icone {
+    width: 2vw;
+    height: 5vh;
+    margin: 1vw;
+}
+
+button {
+    margin-left: auto;
+}
+
+header > button {
+    height: 60%;
+    width: 10%;
+    cursor: pointer;
+}
+
+footer {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    background-color: mediumvioletred;
+}
+
+.card-produto {
+    width: 180px;
+    padding: 5px;
+    text-align: center;
+    box-shadow: 2px;
+    
+}
+
+card-produto > img{
+    width: 180px;
+}

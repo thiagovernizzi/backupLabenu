@@ -1,0 +1,48 @@
+h1, h2, h3, h4, h5, h6 {
+    color:hotpink;
+}
+
+.texto-com-background {
+    background-color: lawngreen;
+}
+
+#texto-com-outra-cor {
+    color:rebeccapurple;
+}
+
+#input-1:hover, #btn-1:hover {
+    background-color: turquoise;
+}
+
+#input-2:active, #btn-2:active {
+    background-color: turquoise;
+}
+
+#input-3:focus, #btn-3:focus {
+    background-color: turquoise;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+}
+
+div {
+    background-color: tomato;
+    width: 100px;
+    margin: auto;
+}
+
+.btn-vermelho:hover {
+    background-color: rgb(223, 24, 24);
+    color: white;
+}
+
+.btn-vermelho {
+    display: block;
+    margin: auto;
+}

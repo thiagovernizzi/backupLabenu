@@ -1,0 +1,194 @@
+Pelas coordenadas, cheguei ao suspeito Jeremy Bowers, mas o meliante foi viajar,
+infelizmente não consegui autuá-lo em flagrante. rs 
+
+Segue o history do Bash:
+
+ 120  cd labenu
+  121  ls
+  122  cd assassinato-na-linha-de-comando
+  123  cat inicio
+  124  cat 'inicio'
+  125  ls
+  126  cd assassinato-na-linha-de-comando
+  127  ls
+  128  cat inicio
+  129  cd misterio
+  130  ls
+  131  grep PISTA cena-do-crime
+  132  cat automoveis
+  133  ls
+  134  cat pessoas
+  135  ls
+  136  cd entrevistas
+  137  ls
+  138  ls
+  139  ls
+  140  ls
+  141  cd .
+  142  cd ..
+  143  ls
+  144  cd ruas
+  145  ls
+  146  cd ..
+  147  ls
+  148  cd associacoes
+  149  ls
+  150  ls
+  151  cd ..
+  152  ls
+  153  grep PISTA cena-do-crime
+  154  cd entrevista
+  155  ls
+  156  cd..
+  157  ls
+  158  cd entrevistas/
+  159  ls
+  160  cat entrevista-306616
+  161  cat entrevista-673985
+  162  ls
+  163  cd ..
+  164  ls
+  165  cd ..
+  166  sl
+  167  ls
+  168  cd misterio
+  169  ls
+  170  ls
+  171  cat automoveis
+  172  grep altura automoveis -B 1
+  173  grep altura
+  174  ls
+  175  cd labenu
+  176  ls
+  177  cd assassinato-na-linha-de-comando
+  178  ls
+  179  cd assassinato-na-linha-de-comando
+  180  ls
+  181  cd misterio
+  182  ls
+  183  head pessoas
+  184  head pessoas -n
+  185  head pessoas
+  186  head -n pessoas
+  187  head -n 10 pessoas
+  188  cat pessoas
+  189  grep Anabell pessoas
+  190  grep Anabell veiculos
+  191  cd ruas
+  192  ls
+  193  head pessoas
+  194  cd ..
+  195  head pessoas
+  196  echo linha 168
+  197  pwd
+  198  grep linha 168 pessoas
+  199  grep "Anabell" pessoas
+  200  grep Annabel pessoas
+  201  head veiculos
+  202  head pessoas
+  203  cd ruas
+  204  ls -a
+  205  Rua_B
+  206  cat Vila_Buckingham
+  207  head -n 176
+  208  ls
+  209  cd labenu
+  210  ls
+  211  cd assassinato-na-linha-de-comando
+  212  cd assassinato-na-linha-de-comando
+  213  ls
+  214  cat inicio
+  215  ls
+  216  cd misterio
+  217  cd rua
+  218  cd ruas
+  219  ls
+  220  head -n 40 Vila_Hart
+  221  cd ..
+  222  cd entrevistas
+  223  ls
+  224  cat entrevista-47246024
+  225  cd ..
+  226  cd ruas
+  227  ls
+  228  head -n 179 Vila_Buckingham
+  229  cd ..
+  230  cd ruas
+  231  cd ..
+  232  cd entrevistas
+  233  ls
+  234  cat entrevista-699607
+  235  cd ..
+  236  ls
+  237  grep L337 automoveis
+  238  grep honda azul automoveis
+  239  grep Honda automoveis
+  240  grep Honda L337 automoveis
+  241  ls
+  242  cat automoveis
+  243  grep L337 automoveis -A 1
+  244  cat automoveis
+  245  grep L337 automoveis -A 2
+  246  grep L337 automoveis -A 5
+  247  grep Joe Germuska pessoas
+  248  grep Jeremy Bowers pessoas
+  249  pwd
+  250  ls
+  251  grep Jeremy Bowers pessoas
+  252  grep Jacqui Maher pessoas
+  253  cd ruas
+  254  ls
+  255  head -n 275 Rua_Plainfield
+  256  ls
+  257  cd ..
+  258  ls
+  259  cd entrevistas
+  260  ls
+  261  cat entrevista-29741223
+  262  cat entrevista-9620713
+  263  cd..
+  264  cd ..
+  265  cd ruas
+  266  ls
+  267  head -n 224 Travessa_Andover
+  268  cd ..
+  269  cd entrevista
+  270  cd entrevistas
+  271  cat entrevista-904020
+  272  history
+  273  cd ..
+  274  grep Erika Owens
+  275  grep Erika Owens pessoas
+  276  cd ruas
+  277  ls
+  278  head -n 98 Rua_Trapelo
+  279  cd ..
+  280  cd entrevistas
+  281  ls
+  282  cat entrevista-5455315
+  283  suspeito
+  284  grep suspeito
+  285  cd labenu
+  286  ls
+  287  cd assassinato-na-linha-de-comando
+  288  cd assassinato-na-linha-de-comando
+  289  cd misterio
+  290  ls
+  291  grep Pilhofer pessoas
+  292  cd ruas
+  293  head -n 145 Rua_Claybourne
+  294  cd ..
+  295  cd entrevistas
+  296  cat entrevista-1767435
+  297  cd ..
+  298  ls
+  299  cd associacoes
+  300  ls
+  301  ls
+  302  cat AAA Biblioteca_da_Cidade Delta_SkyMiles Museu_da_Hisoria_do_Bash | grep Jeremy Bowers
+  303  cat AAA
+  304  grep Jeremy AAA
+  305  ls
+  306  cat Museu_da_Hist├│ria_do_Bash
+  307  grep Jeremy Museu_da_Hist├│ria_do_Bash
+  308  history

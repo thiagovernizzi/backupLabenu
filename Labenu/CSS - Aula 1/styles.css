@@ -1,0 +1,35 @@
+.cor-verde {
+    color:green;
+}
+
+div {
+    display: inline;
+    padding: 5px;
+    margin: 2px;
+}
+
+p {
+    display: inline;
+}
+
+.sumiu {
+    display: none;
+}
+
+button {
+    display: block;
+    background-color: blue;
+    color: white;
+}
+
+.fundo-vermelho {
+    background-color: red;
+}
+
+.fundo-laranja {
+    background-color: orange;
+}
+
+.texto-branco {
+    color: white;
+}

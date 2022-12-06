@@ -1,0 +1,23 @@
+div {
+    height: 100px;
+}
+
+.container-1 {
+    background-color: blue;
+    position: relative;
+}
+
+.container-2 {
+    background-color: tomato;
+    height: 50px;
+    position: absolute;
+    bottom: 0px;
+}
+
+.container-3 {
+    background-color: yellowgreen;
+}
+
+.container-4 {
+    background-color: blueviolet;
+}

@@ -1,0 +1,19 @@
+{
+  "name": "template-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "filter": "tsc && node ./build/1-filter.js",
+    "filter-com-map": "tsc && node ./build/2-filter-com-map.js",
+    "map-com-filter": "tsc && node ./build/3-map-com-filter.js",
+    "ordena": "tsc && node ./build/4-ordena.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.0.0",
+    "typescript": "^4.7.4"
+  }
+}
